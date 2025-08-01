@@ -38,7 +38,7 @@ http
   });
 
 // --- ツイート監視用設定 ---
-const TWITTER_RSS = "https://nitter.privacydev.net/elonmusk/rss"; // ←対象ユーザーを変更
+const TWITTER_RSS = "https://nitter.privacydev.net/noribenn___0927/rss"; // ←対象ユーザーを変更
 const CHANNEL_ID = process.env.DISCORD_CHANNEL_ID;
 let lastTweet = "";
 
